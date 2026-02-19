@@ -33,18 +33,12 @@ I am a 22-year-old Computer Science and Engineering student based in Dehradun, b
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Abhishek's GitHub Streak" width="48%" />
-</p>
 
 ### 📫 Let's Connect!
 
 * **Portfolio:** [abhishektech.in](https://abhishektech.in)
 * **Email:** abhika581@gmail.com
-* **LinkedIn:**www.linkedin.com/in/raiabhishek01
+* **LinkedIn**www.linkedin.com/in/raiabhishek01
 
 ---
 <p align="center"><i>Building the future, one line of code at a time.</i></p>
